@@ -8,7 +8,7 @@
 android {  
   defaultConfig {  
     generatedDensities = []
-    applicationId = "org.nativescript.fantasticeurekangnative"  
+    applicationId = "com.aleggeup.fantasticeureka"
   }  
   aaptOptions {  
     additionalParameters "--no-version-vectors"  
